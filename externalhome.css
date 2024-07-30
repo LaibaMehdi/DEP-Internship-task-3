@@ -1,0 +1,126 @@
+
+
+body {
+
+  
+      
+      background-color: black;
+      font-family:"Arial"   ;
+      text-align: left;
+      color: WHITE;
+      font-size:16 px;
+
+    }
+header {
+  background-image: url("v.jpg");
+  background-repeat: no-repeat;
+ background-size: contain;
+  width: 800px;
+  height: 200px;
+  margin: 0;
+  padding: 50px;
+  background-position: center;
+}
+
+ 
+section {
+      text-align: center;
+      margin: 0 auto;
+      width: 800px;
+      padding: 20px;
+    }
+  
+    header {
+
+  background-image: url("v.jpg");
+  background-repeat: no-repeat;
+  background-size: cover ;
+  margin: 0;
+padding: 130px;
+}
+
+p {
+      font-family:"Arial";
+     text-align: left;
+     color:white;
+     margin: 0;
+     font-size: 19px;
+      
+}
+    h1 {
+      font-family: "Josefin Sans Thin" ;
+      text-align: center;
+      color: WHITE;
+      font-size: 80px;
+    }
+    h2{
+      font-family:  "Josefin Sans Thin" ;
+      text-align: center;
+      color: #c36900 ;
+      font-size: 50px;
+}
+h7
+{
+      font-family:  "Josefin Sans Thin" ;
+      text-align: center;
+      color:white ;
+      font-size: 15px;
+    }
+
+.footer {
+     
+       
+      background-color: black;     
+      padding: 8px;
+      margin: 0;    
+      text-align: center;
+      
+    }
+
+   ol {
+      text-decoration: none;
+      color: white;
+      font-weight: bold;
+    }
+
+    ul {
+       background-color: black;
+
+      font-family:  "Josefin Sans Thin" ;
+      
+      padding: 50px;
+      margin: 0;
+      
+      text-align: center;
+    }
+ 
+
+    li {
+      display: inline;
+      
+    }
+
+    a {
+      text-decoration: none;
+      margin-right: 20px;
+      color: white;
+      font-weight: bold;
+    }
+ {
+      text-decoration: none;
+      color: black;
+      font-weight: bold;
+    }
+
+  footer {
+      background-image: url("v.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-color: #474A6B;
+      font-family:  "Josefin Sans Thin" ;
+      padding: 30px;
+      text-align: center;
+      color: white;
+      margin:0px
+      width:100%
+    }

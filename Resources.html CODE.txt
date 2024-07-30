@@ -1,0 +1,97 @@
+<html>
+<head>
+    <title>resources</title>
+<link rel="stylesheet" type="text/css" href="external.css">
+</head>
+<body>
+    <header>
+        <h1>Resources</h1>
+    </header>
+  <ul>
+    <li><a href="Home.html">Home</a></li>
+    <li><a href="About Sufism.html">About Sufism</a></li>
+    <li><a href="Teachings.html">Teachings</a></li>
+    <li><a href="Practicesl.html">Practices</a></li>
+    <li><a href="Ecstatic Poetryl.html">Ecstatic Poetry</a></li>
+    <li><a href="Spiritual Lineages.html">Spiritual Lineages</a></li>
+    <li><a href="Resources.html">Resources</a></li>
+    <li><a href="Contact Us.html">Contact Us</a></li>
+  </ul>
+
+ <section>
+
+<h2>Explore the following resources to learn more about Sufism:</h2>
+
+<div class="image">
+ <img src="ds2.jpg" alt="image">
+</div>
+
+<h6>Books:</h6>
+
+
+
+<table>
+      <tr>
+        <td><img src="b1.jpg" alt="book cover1" width="166" height="270"></td>
+        <td><img src="b22.jpg" alt="book cover" width="166" height="270"></td>
+        <td><img src="b3.jpg" alt="book cover1" width="176" height="270"></td>
+        <td><img src="b4.jpg" alt="book cover" width="166" height="270"></td>
+      </tr>
+    </table><br>
+
+<ol>
+    <li>"The Conference of the Birds" by Farid ud-Din Attar</li><br>
+    <li>"The Sufis" by Idries Shah</li><br>
+    <li>"Rumi: The Book of Love" by Coleman Barks</li><br>
+    <li>"Sufism: An Introduction to the Mystical Tradition of Islam" by Carl W. Ernst</li><br>
+  
+</ol>
+ 
+<h6>Websites:</h6>
+
+<ol>
+    <li><a href="https://www.sufism.org" target="_blank">Sufism.org</a></li>
+    <li><a href="https://www.ias.org" target="_blank">International Association of Sufism</a></li>
+   <li><a href="https://www.sufismjournal.org" target="_blank">Sufism Journal</a></li>
+    <li><a href="https://www.nimatullahi.org" target="_blank">Nimatullahi Sufi Order</a></li>
+</ol>
+ 
+
+<h6>Documentaries:</h6><br>
+
+        <img src="m1.jpg" alt="book cover1" width="166" height="270">
+        <img src="m2.jpg" alt="book cover" width="166" height="270">
+        <img src="m3.jpg" alt="book cover1" width="176" height="270">   
+     <br>
+
+<ol>
+    <li>"Sufi Soul: The Mystic Music of Islam"</li><br>
+    <li>"Rumi: Poet of the Heart"</li><br>
+    <li>"In the Footsteps of Buddha: Sufi Trail"</li>
+</ol><br>
+
+<h6>Remember to conduct further research and explore these resources to deepen your understanding of Sufism and its diverse spiritual lineages.</h6><br><br><br>
+
+</section>
+<div class="footer">
+
+ <h7>  <a href="Home.html">Home</a>
+  <a href="About Sufism.html">About Sufism</a>
+  <a href="Teachings.html">Teachings</a>
+    <a href="Practicesl.html">Practices</a>
+    <a href="Ecstatic Poetryl.html">Ecstatic Poetry</a>
+    <a href="Spiritual Lineages.html">Spiritual Lineages</a>
+    <a href="Resources.html">Resources</a>
+    <a href="Contact Us.html">Contact Us</a>
+</h7>  
+
+
+</div>
+  
+
+ <footer>
+        &copy; 2024 My Sufism Website. All rights reserved.
+    </footer>
+  
+</body>
+</html>

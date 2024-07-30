@@ -1,0 +1,87 @@
+<html>
+<head>
+    <title>Teachings of Sufism</title>
+<link rel="stylesheet" type="text/css" href="external.css">
+</head>
+
+   <header>
+    <h1>Teachings of Sufism</h1>
+   </header>
+    <ul>
+        <li><a href="Home.html">Home</a></li>
+    <li><a href="About Sufism.html">About Sufism</a></li>
+    <li><a href="Teachings.html">Teachings</a></li>
+    <li><a href="Practicesl.html">Practices</a></li>
+    <li><a href="Ecstatic Poetryl.html">Ecstatic Poetry</a></li>
+    <li><a href="Spiritual Lineages.html">Spiritual Lineages</a></li>
+    <li><a href="Resources.html">Resources</a></li>
+    <li><a href="Contact Us.html">Contact Us</a></li>
+  </ul>
+<div class="image">
+ <img src="teachings1.jpg" alt="image">
+</div>
+<body>
+<section>
+
+    <h2>The Essence of Sufi Teachings</h2>
+
+    <p>Sufism teaches the following core principles and concepts:</p><br>
+
+    <h3> Divine Love (Ishq)</h3>
+
+<img src="teachings2.jpg" alt="book cover1" width="166" height="270"><br><br>
+
+  <br>  <p>Sufis emphasize the experience of divine love as a central aspect of spiritual growth. They seek a deep, intimate, and personal relationship with the Divine.</p><br>
+
+    <h3>2. Oneness (Tawhid)</h3>
+
+        
+        <img src="teachings3.jpg" alt="book cover" width="166" height="270">
+       
+      </tr>
+    </table><br><br>
+
+   <br> <p>Sufis believe in the fundamental unity and oneness of all existence. They strive to realize this unity and overcome the illusion of separateness.</p>
+
+    <h3>3. Spiritual Journey (Suluk)</h3>
+
+<img src="teachings4.jpg" alt="book cover1" width="166" height="270"><br><br>
+
+  <br>  <p>Sufism focuses on the inward journey of the soul towards spiritual perfection. This journey involves purifying the heart, cultivating virtues, and seeking closeness to God.</p>
+
+    <h3>4. Surrender (Taslim)</h3>
+
+<img src="teachings5.jpg" alt="book cover1" width="166" height="270"><br><br>
+
+   <br> <p>Sufis emphasize surrendering to the will of God. They recognize that true spiritual growth comes through submission, humility, and acceptance of the divine plan.</p>
+
+    <h3>5. Remembrance (Dhikr)</h3>
+
+<img src="teachings6.jpg" alt="book cover1" width="166" height="270"><br><br>
+
+ <br>   <p>Remembrance of God through repetitive prayers, chants, or recitation of sacred names is an integral part of Sufi practice. It helps purify the heart and brings the seeker closer to the Divine.</p>
+
+    <h3>6. Spiritual Guide (Murshid)</h3>
+
+<img src="teachings7.jpg" alt="book cover1" width="166" height="270"><br><br>
+
+  <br>  <p>Sufism places importance on the role of a spiritual guide or teacher who provides guidance, support, and mentorship on the path of spiritual growth.</p><br><br><br>
+</section>
+
+<div class="footer">
+<h7>  <a href="Home.html">Home</a>
+  <a href="About Sufism.html">About Sufism</a>
+  <a href="Teachings.html">Teachings</a>
+    <a href="Practicesl.html">Practices</a>
+    <a href="Ecstatic Poetryl.html">Ecstatic Poetry</a>
+    <a href="Spiritual Lineages.html">Spiritual Lineages</a>
+    <a href="Resources.html">Resources</a>
+    <a href="Contact Us.html">Contact Us</a>
+</h7>  
+
+</div>
+    <footer>
+        &copy; 2024 My Sufism Website. All rights reserved.
+    </footer>
+</body>
+</html>
